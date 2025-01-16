@@ -1,5 +1,5 @@
 Crop Disease Detection 🌾🛠️
-Overview
+Overview:
 Crop Disease Detection is an advanced AI-powered system designed to identify 72 types of crop diseases with high accuracy. This project aims to support farmers and agricultural stakeholders in diagnosing plant diseases early, enabling timely action to improve crop health and yield.
 
 Features
