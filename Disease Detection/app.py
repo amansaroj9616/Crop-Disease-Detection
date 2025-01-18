@@ -75,7 +75,7 @@ class_names = {
     57: 'Tomato Canker'
 }
 
-
+# hello
 def preprocess_image(img):
     img = img.resize((128, 128))  # Adjust according to your model input size
     img = img.convert('RGB')
